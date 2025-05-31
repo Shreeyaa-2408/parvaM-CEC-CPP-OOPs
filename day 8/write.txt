@@ -1,0 +1,5 @@
+Teacher Details are as follows: 
+Name : shreeyaa
+Age : 18
+Branch : aiml
+Experience : 2
